@@ -1,4 +1,4 @@
-# PlantDiseaseClassification_AICTE_Cycle4
+# PlantDiseaseClassification
 
 # Dataset 
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
